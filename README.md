@@ -1,8 +1,13 @@
 `git clone https://github.com/You2php/you2php-heroku.git`
+
 `cd you2php-heroku`
+
 `heroku create {You APP Name}`
+
 `git push heroku master`
+
 `heroku ps:scale web=1`
+
 `heroku open`
 
 陆续执行这些命令就可以了。{You APP Name}改成您的应用域名前缀名（不需要加花括号）。
