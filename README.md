@@ -1,3 +1,12 @@
+为了您一次能安装成功，请按照以下步骤逐步操作。
+1.点击fork这个项目。操作成功后跳转到您的you2php项目页面。
+2.编辑config.php文件，修改里面的第三行，填入您申请的youtube api key
+[![pHhWRg.md.png](https://s1.ax1x.com/2018/01/25/pHhWRg.md.png)](https://imgchr.com/i/pHhWRg)
+[![pHhRJS.md.png](https://s1.ax1x.com/2018/01/25/pHhRJS.md.png)](https://imgchr.com/i/pHhRJS)
+3.执行命令创建您的heroku应用：
+
+ps：记住把下面命令中的第一条中的you2php改成您的heroku用户名，(如：git clone https://github.com/Youuser/you2php-heroku.git)因为您需要提交您的仓库代码。第三条中{You APP Name}改成您的应用域名前缀名（不需要加花括号）。
+
 `git clone https://github.com/You2php/you2php-heroku.git`
 
 `cd you2php-heroku`
@@ -10,7 +19,6 @@
 
 `heroku open`
 
-陆续执行这些命令就可以了。{You APP Name}改成您的应用域名前缀名（不需要加花括号）。
-首页显示空白，一般是mbstring库没有开启导致了，建议官方的文档开启mbstring.
-首页空白不影响使用，搜索和播放功能正常，
-由于heroku会自动重置，可能会导致应用过了一段时间会还原到安装前状态，建议您先在本地搭建php环境安装you2php，然后把安装后的you2php所有文件push到您的heroku应用。
+ps：执行上面的命令需要在您的计算机上安装heroku CLI（下载地址：https://devcenter.heroku.com/articles/getting-started-with-php#set-up）
+
+
