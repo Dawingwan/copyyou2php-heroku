@@ -10,7 +10,7 @@
 
 > 3.执行命令创建您的heroku应用：
 
-ps：记住把下面命令中的第一条中的you2php改成您的heroku用户名，(如：git clone https://github.com/Youuser/you2php-heroku.git)因为您需要提交您的仓库代码。第三条中{You APP Name}改成您的应用域名前缀名（不需要加花括号）。
+ps：记住把下面命令中的第一条中的you2php改成您的heroku用户名，(如：`git clone https://github.com/Youuser/you2php-heroku.git` )因为您需要提交您的仓库代码。第三条中{You APP Name}改成您的应用域名前缀名（不需要加花括号）。
 
 
 ```
