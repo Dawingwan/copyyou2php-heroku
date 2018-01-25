@@ -5,8 +5,8 @@
 
 > 2.编辑config.php文件，修改里面的第三行，填入您申请的youtube api key。其他几行也可以修改。看注释
 
-[![pHhWRg.md.png](https://s1.ax1x.com/2018/01/25/pHhWRg.md.png)](https://imgchr.com/i/pHhWRg)
-[![pHhRJS.md.png](https://s1.ax1x.com/2018/01/25/pHhRJS.md.png)](https://imgchr.com/i/pHhRJS)
+![pHhWRg.png](https://s1.ax1x.com/2018/01/25/pHhWRg.png)
+![pHhRJS.png](https://s1.ax1x.com/2018/01/25/pHhRJS.png)
 
 > 3.执行命令创建您的heroku应用：
 
