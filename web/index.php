@@ -118,7 +118,7 @@ if(isset($_GET['v'])){
       <div class="col-md-9 ">
          <div class="col-md-12 pb-3 d-none d-sm-none d-md-block" style="background: url(http://wx2.sinaimg.cn/large/b0738b0agy1fm4j4ba83wj20t60jh0uf.jpg) no-repeat;background-size: cover;background-position: center -80px;text-align: center;
     "> 
-   <h3 class="pt-5 pb-2 text-white">你好 世界！</h3>
+   <h3 class="pt-5 pb-2 text-white">你好 Netflix合租群友！</h3>
     <form>
   <div class="form-group" >
       <input type="text" name="v" style="width: 50%;height: 50px;border: none;box-sizing: border-box;padding: 14px 18px;" placeholder="请输入视频ID或Youtube链接"  autocomplete="off" /><button type="submit"  style="width: 18%;border: none;height: 50px;background-color: #e62117;color: #fff;font-size: 18px;display: inline-block;" ><i class="fa fa-youtube-play fa-lg pr-1"></i>播放</button>
